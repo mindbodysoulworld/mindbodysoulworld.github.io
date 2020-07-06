@@ -478,8 +478,16 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .section-description {
-  text-align: center;
   margin-bottom: 40px;
+  font-family:georgia,garamond,serif;font-size:16px;font-style:italic;
+}
+  .section-descriptionaligned {
+    text-align: center;
+    margin-bottom: 40px;
+    font-family:georgia,garamond,serif;font-size:16px;font-style:italic;
+  
+  }
+
 }
 .ml3 {
   font-weight: 900;
@@ -531,6 +539,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .about-text {
   line-height: 26px;
   margin-bottom: 15px;
+  font-family:georgia,garamond,serif;font-size:16px;font-style:italic;
 }
 
 #about .about-text:last-child {
@@ -576,15 +585,19 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 700;
   margin-bottom: 15px;
   text-transform: uppercase;
+  font-family:georgia,garamond,serif;font-size:16px;font-style:italic;
 }
 
 #services .service-title a {
   color: #111;
+  font-family:georgia,garamond,serif;font-size:16px;font-style:italic;
+
 }
 
 #services .service-description {
   margin-left: 80px;
   line-height: 24px;
+  font-family:georgia,garamond,serif;font-size:16px;font-style:italic;
 }
 
 /* Subscribe Section
@@ -599,10 +612,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
   font-size: 28px;
   font-weight: 700;
+  font-family:georgia,garamond,serif;font-size:16px;font-style:italic;
 }
 
 #subscribe .subscribe-text {
   color: #fff;
+  font-family:georgia,garamond,serif;font-size:16px;font-style:italic;
 }
 
 #subscribe .subscribe-btn-container {
